@@ -43,7 +43,7 @@ This version is a development version of Redora so ull need to have python insta
 
 ## Contributing
 
-For anyone wishing to help me develop my project further feel free to submit a pull request and for personel queries about the software contact me on danielgoncalves62@gmail.com
+For anyone wishing to help me develop my project further feel free to submit a pull request.
 
 
 ## Authors
